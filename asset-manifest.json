@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/OSCAR-OD/loadrepo.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/OSCAR-OD/loadrepo.git/static/js/main.651a03eb.chunk.js",
+    "main.js.map": "/OSCAR-OD/loadrepo.git/static/js/main.651a03eb.chunk.js.map",
+    "runtime-main.js": "/OSCAR-OD/loadrepo.git/static/js/runtime-main.e63cd3b2.js",
+    "runtime-main.js.map": "/OSCAR-OD/loadrepo.git/static/js/runtime-main.e63cd3b2.js.map",
+    "static/js/2.a6c3c362.chunk.js": "/OSCAR-OD/loadrepo.git/static/js/2.a6c3c362.chunk.js",
+    "static/js/2.a6c3c362.chunk.js.map": "/OSCAR-OD/loadrepo.git/static/js/2.a6c3c362.chunk.js.map",
+    "index.html": "/OSCAR-OD/loadrepo.git/index.html",
+    "precache-manifest.6ab87b3250d12349d2e3f4daf531ef9e.js": "/OSCAR-OD/loadrepo.git/precache-manifest.6ab87b3250d12349d2e3f4daf531ef9e.js",
+    "service-worker.js": "/OSCAR-OD/loadrepo.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/OSCAR-OD/loadrepo.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a6c3c362.chunk.js.LICENSE.txt": "/OSCAR-OD/loadrepo.git/static/js/2.a6c3c362.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/OSCAR-OD/loadrepo.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e63cd3b2.js",
+    "static/js/2.a6c3c362.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.651a03eb.chunk.js"
+  ]
+}
