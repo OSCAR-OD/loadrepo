@@ -4,8 +4,14 @@ https://github.com/OSCAR-OD/loadrepo.git
     "deploy":"npm run build && gh-pages -d build"
 echo "# loadrepo" >> README.md
 git init
+git add .
 git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/OSCAR-OD/loadrepo.git
+git push -u origin main
+/////////////////////
+git push only
+git remote add origin https://github.com/OSCAR-OD/loadrepo.git
+git branch -M main
 git push -u origin main
